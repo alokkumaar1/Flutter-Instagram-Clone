@@ -19,18 +19,15 @@ This project replicates the core features of Instagram, allowing users to share 
 
 <p align = "center">
       <img src="Assets/DemoImg/Simulator Screenshot - iPhone 15 - 2024-07-12 at 00.38.20.png" alt="Search Screen" width="200" />
-  
-<img src="Assets/DemoImg/Simulator Screenshot - iPhone 15 - 2024-07-12 at 00.38.32.png" alt="other UserProfile Screen" width="200"  />
    
 <img src="Assets/DemoImg/Simulator Screenshot - iPhone 15 - 2024-07-12 at 00.38.50.png" alt="AddPost Screen" width="200"  />
 
-<img src="Assets/DemoImg/Simulator Screenshot - iPhone 15 - 2024-07-12 at 00.38.55.png" alt="User Profile" width="200"  />
 
 <p/>
 
 <p align = "center">
 <img src="Assets/DemoImg/Simulator Screenshot - iPhone 15 - 2024-07-12 at 00.38.14.png" alt="Search Screen" width="200" />
-<img src="Assets/DemoImg/Simulator Screenshot - iPhone 15 - 2024-07-12 at 00.47.43.png" alt="Comment Screen" width="200"  />
+
 <p/>
 
 
@@ -93,7 +90,7 @@ Please follow our Code of Conduct and Contribution Guidelines.
 
 # Connect with Me
 
-Connect with me on LinkedIn: https://www.linkedin.com/in/abinash-karki/
+Connect with me on LinkedIn: (https://www.linkedin.com/in/alokkumar48/)
 
 # License
 
